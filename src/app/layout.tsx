@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SpeakToDocsAI",
+  title: "RetrieviaAI",
   description: "An AI-powered document assistant that helps you find information quickly and easily.",
 };
 
